@@ -1,3 +1,7 @@
+https://mbgame.github.io/3d-model-loader/
+
+Wait a few seconds for the download to complete
+
 # ThreeJS with Vite Starter Pack
 ### Prerequisites
 Before you start, make sure you have Node.js installed on your machine: (https://nodejs.org/en/download/)
